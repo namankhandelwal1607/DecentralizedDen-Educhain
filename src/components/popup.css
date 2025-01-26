@@ -1,0 +1,6 @@
+.bg-black-1{
+    backdrop-filter: blur(10px);
+}
+.bg-black-800{
+    background-color: rgb(59, 59, 59);
+}
